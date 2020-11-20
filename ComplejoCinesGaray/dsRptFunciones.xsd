@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsRptFunciones" targetNamespace="http://tempuri.org/dsRptFunciones.xsd" xmlns:mstns="http://tempuri.org/dsRptFunciones.xsd" xmlns="http://tempuri.org/dsRptFunciones.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.ComplejoCinesGaray.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vis_reporte_funcionesTableAdapter" GeneratorDataComponentClassName="vis_reporte_funcionesTableAdapter" Name="vis_reporte_funciones" UserDataComponentName="vis_reporte_funcionesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="CineGARAY.dbo.vis_reporte_funciones" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT "Código", "Película", "Hora_de_inicio", "Fecha", "Sala", "Idioma" FROM "dbo"."vis_reporte_funciones"</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Código" DataSetColumn="Código" />
+              <Mapping SourceColumn="Película" DataSetColumn="Película" />
+              <Mapping SourceColumn="Hora_de_inicio" DataSetColumn="Hora_de_inicio" />
+              <Mapping SourceColumn="Fecha" DataSetColumn="Fecha" />
+              <Mapping SourceColumn="Sala" DataSetColumn="Sala" />
+              <Mapping SourceColumn="Idioma" DataSetColumn="Idioma" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsRptFunciones" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="dsRptFunciones" msprop:Generator_UserDSName="dsRptFunciones">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vis_reporte_funciones" msprop:Generator_TableClassName="vis_reporte_funcionesDataTable" msprop:Generator_TableVarName="tablevis_reporte_funciones" msprop:Generator_TablePropName="vis_reporte_funciones" msprop:Generator_RowDeletingName="vis_reporte_funcionesRowDeleting" msprop:Generator_RowChangingName="vis_reporte_funcionesRowChanging" msprop:Generator_RowEvHandlerName="vis_reporte_funcionesRowChangeEventHandler" msprop:Generator_RowDeletedName="vis_reporte_funcionesRowDeleted" msprop:Generator_UserTableName="vis_reporte_funciones" msprop:Generator_RowChangedName="vis_reporte_funcionesRowChanged" msprop:Generator_RowEvArgName="vis_reporte_funcionesRowChangeEvent" msprop:Generator_RowClassName="vis_reporte_funcionesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Código" msprop:Generator_ColumnVarNameInTable="columnCódigo" msprop:Generator_ColumnPropNameInRow="Código" msprop:Generator_ColumnPropNameInTable="CódigoColumn" msprop:Generator_UserColumnName="Código">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Película" msprop:Generator_ColumnVarNameInTable="columnPelícula" msprop:Generator_ColumnPropNameInRow="Película" msprop:Generator_ColumnPropNameInTable="PelículaColumn" msprop:Generator_UserColumnName="Película">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Hora_de_inicio" msdata:DataType="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnHora_de_inicio" msprop:Generator_ColumnPropNameInRow="Hora_de_inicio" msprop:Generator_ColumnPropNameInTable="Hora_de_inicioColumn" msprop:Generator_UserColumnName="Hora_de_inicio" type="xs:anyType" />
+              <xs:element name="Fecha" msprop:Generator_ColumnVarNameInTable="columnFecha" msprop:Generator_ColumnPropNameInRow="Fecha" msprop:Generator_ColumnPropNameInTable="FechaColumn" msprop:Generator_UserColumnName="Fecha" type="xs:dateTime" />
+              <xs:element name="Sala" msprop:Generator_ColumnVarNameInTable="columnSala" msprop:Generator_ColumnPropNameInRow="Sala" msprop:Generator_ColumnPropNameInTable="SalaColumn" msprop:Generator_UserColumnName="Sala">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Idioma" msprop:Generator_ColumnVarNameInTable="columnIdioma" msprop:Generator_ColumnPropNameInRow="Idioma" msprop:Generator_ColumnPropNameInTable="IdiomaColumn" msprop:Generator_UserColumnName="Idioma">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

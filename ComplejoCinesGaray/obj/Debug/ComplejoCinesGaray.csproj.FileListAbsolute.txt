@@ -1,0 +1,203 @@
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.exe.config
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.exe
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.pdb
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.Form1.resources
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.Properties.Resources.resources
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControl1.resources
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.exe
+C:\Users\usuario\Desktop\Programacion Facu\Segundo Cuatrimestre\Laboratorio de Computacion 2\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.pdb
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmPrincipal.resources
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.Properties.Resources.resources
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlClientes.resources
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.GenerateResource.cache
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.CoreCompileInputs.cache
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.exe
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.pdb
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.exe.config
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.exe
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.pdb
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csprojAssemblyReference.cache
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlEntradas.resources
+C:\Users\Admins\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlPeliculas.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.exe.config
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.exe
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.pdb
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmPrincipal.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.Properties.Resources.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlClientes.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlEntradas.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlPeliculas.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.exe
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.pdb
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.exe.config
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.exe
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.pdb
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmPrincipal.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.Properties.Resources.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlClientes.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlEntradas.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlFunciones.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlPeliculas.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.GenerateResource.cache
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.CoreCompileInputs.cache
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.exe
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.pdb
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlArtistas.resources
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.exe.config
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.exe
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ComplejoCinesGaray.pdb
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmPrincipal.resources
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlArtistas.resources
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlClientes.resources
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlEntradas.resources
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlFunciones.resources
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlPeliculas.resources
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.exe
+C:\Users\Usuario\Documents\GitHub\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.pdb
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmReporteArtistas.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmReporteClientes.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmReportePeliculas.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlArtistas.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlFunciones.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlReportes.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\EnvDTE.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\stdole.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.MSXML.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.CopyComplete
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.formSalida.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmReporteEntradas.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmReporteFunciones.resources
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\RdlCompile.cache
+C:\Users\usuario\Desktop\ABMCinesGaray\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\RdlCompile.compiled
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\EnvDTE.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\stdole.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csprojAssemblyReference.cache
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.formSalida.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmReporteArtistas.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmReporteClientes.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmReporteEntradas.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmReporteFunciones.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.frmReportePeliculas.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.UserControlReportes.resources
+C:\Users\Ultrabook EXO\Desktop\ABMKunditosProg\ComplejoCinesGaray\obj\Debug\ComplejoCinesGaray.csproj.CopyComplete

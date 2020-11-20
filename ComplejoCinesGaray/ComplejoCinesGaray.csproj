@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1825EB7-9B68-40FB-A6DA-3FB5B21284C0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ComplejoCinesGaray</RootNamespace>
+    <AssemblyName>ComplejoCinesGaray</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Artistas.cs" />
+    <Compile Include="Clientes.cs" />
+    <Compile Include="Datos.cs" />
+    <Compile Include="dsClientes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsClientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsPeliculas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsPeliculas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsReporteEntradas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReporteEntradas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsReporteFunciones.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReporteFunciones.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsReportEntradas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReportEntradas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsReportesArtistas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReportesArtistas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsReportPelis.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReportPelis.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsRptFunciones.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsRptFunciones.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsViewArtistas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsViewArtistas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsViewReportePelis.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsViewReportePelis.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsViewReportPelis.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsViewReportPelis.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsViewRptEntradas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsViewRptEntradas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entradas.cs" />
+    <Compile Include="formSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSalida.Designer.cs">
+      <DependentUpon>formSalida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteArtistas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteArtistas.Designer.cs">
+      <DependentUpon>frmReporteArtistas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteClientes.Designer.cs">
+      <DependentUpon>frmReporteClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteEntradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteEntradas.Designer.cs">
+      <DependentUpon>frmReporteEntradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteFunciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteFunciones.Designer.cs">
+      <DependentUpon>frmReporteFunciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportePeliculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportePeliculas.Designer.cs">
+      <DependentUpon>frmReportePeliculas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones.cs" />
+    <Compile Include="Peliculas.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="UserControlArtistas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlArtistas.Designer.cs">
+      <DependentUpon>UserControlArtistas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlClientes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlClientes.Designer.cs">
+      <DependentUpon>UserControlClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlFunciones.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlFunciones.Designer.cs">
+      <DependentUpon>UserControlFunciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlPeliculas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlPeliculas.Designer.cs">
+      <DependentUpon>UserControlPeliculas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlEntradas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlEntradas.Designer.cs">
+      <DependentUpon>UserControlEntradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlReportes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlReportes.Designer.cs">
+      <DependentUpon>UserControlReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validaciones.cs" />
+    <EmbeddedResource Include="formSalida.resx">
+      <DependentUpon>formSalida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteArtistas.resx">
+      <DependentUpon>frmReporteArtistas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteClientes.resx">
+      <DependentUpon>frmReporteClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteEntradas.resx">
+      <DependentUpon>frmReporteEntradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteFunciones.resx">
+      <DependentUpon>frmReporteFunciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportePeliculas.resx">
+      <DependentUpon>frmReportePeliculas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rptArtistas.rdlc" />
+    <EmbeddedResource Include="rptClientes.rdlc" />
+    <EmbeddedResource Include="rptEntradas.rdlc" />
+    <EmbeddedResource Include="rptFunciones.rdlc" />
+    <EmbeddedResource Include="rptPeliculas.rdlc" />
+    <EmbeddedResource Include="UserControlArtistas.resx">
+      <DependentUpon>UserControlArtistas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlClientes.resx">
+      <DependentUpon>UserControlClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlEntradas.resx">
+      <DependentUpon>UserControlEntradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlFunciones.resx">
+      <DependentUpon>UserControlFunciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlPeliculas.resx">
+      <DependentUpon>UserControlPeliculas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlReportes.resx">
+      <DependentUpon>UserControlReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="dsClientes.xsc">
+      <DependentUpon>dsClientes.xsd</DependentUpon>
+    </None>
+    <None Include="dsClientes.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsClientes.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsClientes.xss">
+      <DependentUpon>dsClientes.xsd</DependentUpon>
+    </None>
+    <None Include="dsPeliculas.xsc">
+      <DependentUpon>dsPeliculas.xsd</DependentUpon>
+    </None>
+    <None Include="dsPeliculas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsPeliculas.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsPeliculas.xss">
+      <DependentUpon>dsPeliculas.xsd</DependentUpon>
+    </None>
+    <None Include="dsReporteEntradas.xsc">
+      <DependentUpon>dsReporteEntradas.xsd</DependentUpon>
+    </None>
+    <None Include="dsReporteEntradas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReporteEntradas.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsReporteEntradas.xss">
+      <DependentUpon>dsReporteEntradas.xsd</DependentUpon>
+    </None>
+    <None Include="dsReporteFunciones.xsc">
+      <DependentUpon>dsReporteFunciones.xsd</DependentUpon>
+    </None>
+    <None Include="dsReporteFunciones.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReporteFunciones.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsReporteFunciones.xss">
+      <DependentUpon>dsReporteFunciones.xsd</DependentUpon>
+    </None>
+    <None Include="dsReportEntradas.xsc">
+      <DependentUpon>dsReportEntradas.xsd</DependentUpon>
+    </None>
+    <None Include="dsReportEntradas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReportEntradas.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsReportEntradas.xss">
+      <DependentUpon>dsReportEntradas.xsd</DependentUpon>
+    </None>
+    <None Include="dsReportesArtistas.xsc">
+      <DependentUpon>dsReportesArtistas.xsd</DependentUpon>
+    </None>
+    <None Include="dsReportesArtistas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReportesArtistas.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsReportesArtistas.xss">
+      <DependentUpon>dsReportesArtistas.xsd</DependentUpon>
+    </None>
+    <None Include="dsReportPelis.xsc">
+      <DependentUpon>dsReportPelis.xsd</DependentUpon>
+    </None>
+    <None Include="dsReportPelis.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReportPelis.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsReportPelis.xss">
+      <DependentUpon>dsReportPelis.xsd</DependentUpon>
+    </None>
+    <None Include="dsRptFunciones.xsc">
+      <DependentUpon>dsRptFunciones.xsd</DependentUpon>
+    </None>
+    <None Include="dsRptFunciones.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsRptFunciones.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsRptFunciones.xss">
+      <DependentUpon>dsRptFunciones.xsd</DependentUpon>
+    </None>
+    <None Include="dsViewArtistas.xsc">
+      <DependentUpon>dsViewArtistas.xsd</DependentUpon>
+    </None>
+    <None Include="dsViewArtistas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsViewArtistas.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsViewArtistas.xss">
+      <DependentUpon>dsViewArtistas.xsd</DependentUpon>
+    </None>
+    <None Include="dsViewReportePelis.xsc">
+      <DependentUpon>dsViewReportePelis.xsd</DependentUpon>
+    </None>
+    <None Include="dsViewReportePelis.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsViewReportePelis.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsViewReportePelis.xss">
+      <DependentUpon>dsViewReportePelis.xsd</DependentUpon>
+    </None>
+    <None Include="dsViewReportPelis.xsc">
+      <DependentUpon>dsViewReportPelis.xsd</DependentUpon>
+    </None>
+    <None Include="dsViewReportPelis.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsViewReportPelis.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsViewReportPelis.xss">
+      <DependentUpon>dsViewReportPelis.xsd</DependentUpon>
+    </None>
+    <None Include="dsViewRptEntradas.xsc">
+      <DependentUpon>dsViewRptEntradas.xsd</DependentUpon>
+    </None>
+    <None Include="dsViewRptEntradas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsViewRptEntradas.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsViewRptEntradas.xss">
+      <DependentUpon>dsViewRptEntradas.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ImgCinesGaray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ImgCinesGaray 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ImgCine.png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pelicula.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entradas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinema2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yoda_hollywood_cinema_film-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popcorn-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\legolas_hollywood_cinema_film-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gandalf_hollywood_cinema_film-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\harry_hollywood_cinema_film-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leia_hollywood_cinema_film-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chewbacca_hollywood_cinema_film-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R2_D2_hollywood_cinema_film-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sorting_hat_hollywood_cinema_film-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\storm_trooper_hollywood_cinema_film-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\the_ring_hollywood_cinema_film-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sauron_hollywood_cinema_film-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BB_8_hollywood_cinema_film-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deathly_hallows_hollywood_cinema_film-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Millennium_falcon_hollywood_cinema_film-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luke_hollywood_cinema_film-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\letter_hollywood_cinema_film-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tilde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\claqueta %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actor1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsViewArtistas" targetNamespace="http://tempuri.org/dsViewArtistas.xsd" xmlns:mstns="http://tempuri.org/dsViewArtistas.xsd" xmlns="http://tempuri.org/dsViewArtistas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.ComplejoCinesGaray.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vis_reporte_artistasTableAdapter" GeneratorDataComponentClassName="vis_reporte_artistasTableAdapter" Name="vis_reporte_artistas" UserDataComponentName="vis_reporte_artistasTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="CineGARAY.dbo.vis_reporte_artistas" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT "Código", "Artista", "Nacionalidad" FROM "dbo"."vis_reporte_artistas"</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Código" DataSetColumn="Código" />
+              <Mapping SourceColumn="Artista" DataSetColumn="Artista" />
+              <Mapping SourceColumn="Nacionalidad" DataSetColumn="Nacionalidad" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsViewArtistas" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="dsViewArtistas" msprop:Generator_UserDSName="dsViewArtistas">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vis_reporte_artistas" msprop:Generator_TableClassName="vis_reporte_artistasDataTable" msprop:Generator_TableVarName="tablevis_reporte_artistas" msprop:Generator_TablePropName="vis_reporte_artistas" msprop:Generator_RowDeletingName="vis_reporte_artistasRowDeleting" msprop:Generator_RowChangingName="vis_reporte_artistasRowChanging" msprop:Generator_RowEvHandlerName="vis_reporte_artistasRowChangeEventHandler" msprop:Generator_RowDeletedName="vis_reporte_artistasRowDeleted" msprop:Generator_UserTableName="vis_reporte_artistas" msprop:Generator_RowChangedName="vis_reporte_artistasRowChanged" msprop:Generator_RowEvArgName="vis_reporte_artistasRowChangeEvent" msprop:Generator_RowClassName="vis_reporte_artistasRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Código" msprop:Generator_ColumnVarNameInTable="columnCódigo" msprop:Generator_ColumnPropNameInRow="Código" msprop:Generator_ColumnPropNameInTable="CódigoColumn" msprop:Generator_UserColumnName="Código" type="xs:int" />
+              <xs:element name="Artista" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnArtista" msprop:Generator_ColumnPropNameInRow="Artista" msprop:Generator_ColumnPropNameInTable="ArtistaColumn" msprop:Generator_UserColumnName="Artista" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="101" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nacionalidad" msprop:Generator_ColumnVarNameInTable="columnNacionalidad" msprop:Generator_ColumnPropNameInRow="Nacionalidad" msprop:Generator_ColumnPropNameInTable="NacionalidadColumn" msprop:Generator_UserColumnName="Nacionalidad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
